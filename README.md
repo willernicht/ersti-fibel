@@ -1,6 +1,6 @@
 # Beispiel-Änderung 1 in marius_anmerkungen
 
-# ersti-fibel
+# ersti-fibel Beispiel-Änderung 2 in 2xB:beispiel2
 Die Ersti-Φbel ist die Erstsemester-Informationszeitschrift des Fachbereichs Physik der [Westfälischen Wilhelms-Universität Münster](https://www.uni-muenster.de/).
 Die vollständige Version der Ersti-Φbel ist für Physik-Studierende der WWU (Nutzergruppe `p0stud`) [auf der Homepage der Fachschaft Physik als PDF-Datei verfügbar](https://sso.uni-muenster.de/Physik.FSPHYS/intern/physiker/erstifibel/).
 
